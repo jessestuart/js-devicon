@@ -456,6 +456,7 @@
     }
   },
   {
+<<<<<<< HEAD
     "name": "intellij",
     "tags": ["editor"],
     "versions": {
@@ -472,6 +473,17 @@
     }
   },
   {
+||||||| parent of 1494740... Updated Fonts
+=======
+    "name": "jade",
+    "tags": ["programming", "language"],
+    "versions": {
+      "svg": ["original", "original-wordmark", "plain", "plain-wordmark"],
+      "font": ["plain", "plain-wordmark"]
+    }
+  },
+  {
+>>>>>>> 1494740... Updated Fonts
     "name": "java",
     "tags": ["programming", "language"],
     "versions": {

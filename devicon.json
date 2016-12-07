@@ -836,6 +836,7 @@
     }
   },
   {
+<<<<<<< HEAD
     "name": "tomcat",
     "tags": ["server"],
     "versions": {
@@ -844,6 +845,17 @@
     }
   },
   {
+||||||| parent of b71b8d2... Updated Fonts & CSS
+=======
+    "name": "tomcat",
+    "tags": ["platform"],
+    "versions": {
+      "svg": ["original", "original-wordmark", "line", "line-wordmark"],
+      "font": ["plain", "plain-wordmark"]
+    }
+  },
+  {
+>>>>>>> b71b8d2... Updated Fonts & CSS
     "name": "travis",
     "tags": ["platform", "integration"],
     "versions": {
@@ -900,6 +912,7 @@
     }
   },
   {
+<<<<<<< HEAD
 	  "name": "visualstudio",
 	  "tags": ["editor"],
 	  "versions": {
@@ -932,6 +945,17 @@
     }
   },
   {
+||||||| parent of b71b8d2... Updated Fonts & CSS
+=======
+    "name": "vuejs",
+    "tags": ["framework"],
+    "versions": {
+      "svg": ["original", "original-wordmark", "plain", "plain-wordmark", "line", "line-wordmark"],
+      "font": ["plain", "plain-wordmark"]
+    }
+  },
+  {
+>>>>>>> b71b8d2... Updated Fonts & CSS
     "name": "windows8",
     "tags": ["os"],
     "versions": {

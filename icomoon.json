@@ -18027,6 +18027,82 @@
     {
       "icon": {
         "paths": [
+          "M241.040 577.6l-98.16 55.52v-43.28l61.2-33.68 37.040 21.36zM247.76 571.52v-116.16l-35.92 20.72v74.64l36.16 20.8zM36.080 577.6l98.16 55.52v-43.28l-61.2-33.6zM29.36 571.52v-116.16l35.92 20.72v74.64zM33.6 448l100.72-56.96v41.76l-64.56 35.36h-0.48zM243.6 448l-100.72-57.12v41.76l64.48 35.44h0.48l35.76-20.080z",
+          "M134.24 580l-60.32-33.2v-65.76l60.4 34.88zM142.88 580l60.4-33.2v-65.76l-60.4 34.88zM78 473.52l60.56-33.52 60.56 33.28-60.56 34.96-60.56-34.72z",
+          "M388.88 556.56h26.56l27.040-90.16h-25.84l-16 64-17.12-64h-22.4l-17.28 64-16-64h-25.68l26.88 90.16h26.56l16.72-57.76zM443.92 512c-0.033 0.642-0.051 1.395-0.051 2.151 0 24.831 20.129 44.96 44.96 44.96 0.891 0 1.775-0.026 2.653-0.077 0.409 0.029 1.030 0.043 1.655 0.043 15.132 0 28.431-7.853 36.041-19.707l-15.898-12.090c-4.831 6.72-12.627 11.044-21.434 11.044-0.171 0-0.342-0.002-0.512-0.005-0.438 0.035-0.979 0.055-1.524 0.055-11.703 0-21.264-9.172-21.888-20.719l63.518-0.055c0-1.76 0-3.44 0-5.2 0-29.44-16-48-43.76-48-25.68 0-44.16 20.32-44.16 47.6zM468.96 502.16c0.311-10.291 8.708-18.52 19.036-18.56 0.267-0.013 0.575-0.021 0.884-0.021 10.113 0 18.321 8.159 18.399 18.254zM540.96 556.8h22.4v-9.6c6.45 7.093 15.715 11.527 26.015 11.527 0.248 0 0.495-0.003 0.742-0.008 25.803 0.001 44.123-19.439 44.123-47.199s-17.040-47.52-42.88-47.52c-0.326-0.011-0.709-0.018-1.093-0.018-10.214 0-19.373 4.514-25.592 11.657l-0.035-43.639h-24v124.56zM563.92 512c0-16.88 10-26.56 23.12-26.56s23.12 10.56 23.12 26.56-9.68 26-23.12 26c-12.908-0.441-23.205-11.012-23.205-23.987 0-0.709 0.031-1.41 0.091-2.103zM643.36 589.040h24v-41.84c6.329 7.092 15.496 11.535 25.701 11.535 0.358 0 0.715-0.005 1.071-0.016 25.788 0.001 42.748-19.439 42.748-47.359s-18.48-47.36-44.32-47.36c-0.241-0.006-0.525-0.009-0.81-0.009-10.3 0-19.547 4.506-25.879 11.653l-0.032-9.324h-22.4v122.48zM666.48 511.44c-0.054-0.603-0.085-1.305-0.085-2.013 0-12.975 10.296-23.545 23.164-23.986 13.48-0.001 23.16 9.999 23.16 25.999s-9.28 26.56-23.12 26.56-23.12-10-23.12-26.8zM740.96 528.88c0 18.96 15.52 30.16 33.76 30.16 0.651 0.053 1.408 0.084 2.173 0.084 7.694 0 14.668-3.086 19.751-8.088l1.516 5.844h21.040v-57.44c0-20.16-8.64-35.36-37.6-35.36-13.221 0.188-25.477 4.16-35.779 10.878l9.219 15.842c6.938-3.829 15.171-6.173 23.931-6.399 10.629-0.001 16.069 5.359 16.069 13.279v6.32c-5.365-3.267-11.854-5.201-18.795-5.201-0.086 0-0.173 0-0.259 0.001-21.027-0-35.027 12-35.027 29.76zM764.96 528.16c0-7.44 6.4-12.56 15.52-12.56s16 4.64 16 12.56-6.56 12.4-15.52 12.4-16-4.96-16-12.4zM876.96 538c-14.102-0.55-25.326-12.115-25.326-26.301 0-13.905 10.783-25.291 24.442-26.254 8.273 0.075 15.682 3.355 21.131 8.643l6.712-20.007c-7.71-6.217-17.605-10.005-28.383-10.080-0.474-0.016-1.011-0.025-1.551-0.025-25.67 0-46.48 20.81-46.48 46.48 0 0.403 0.005 0.804 0.015 1.205-0.012 0.314-0.018 0.752-0.018 1.192 0 25.317 20.523 45.84 45.84 45.84 0.766 0 1.527-0.019 2.284-0.056 0.093 0.007 0.328 0.009 0.564 0.009 10.525 0 20.213-3.585 27.91-9.6l-6.5-19.365c-5.46 4.738-12.557 7.718-20.342 7.998zM912.64 556.8h24v-46.8l30.16 46.56h27.92l-34.16-49.36 32-40.88h-26.72l-29.36 37.68v-72h-24v124.56z"
+        ],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "webpack-plain-wordmark"
+        ],
+        "colorPermutations": {
+          "12091642612552201181": [
+            {
+              "f": 0
+            },
+            {
+              "f": 0
+            },
+            {
+              "f": 0
+            }
+          ]
+        }
+      },
+      "attrs": [],
+      "properties": {
+        "order": 270,
+        "id": 193,
+        "name": "webpack-plain-wordmark",
+        "prevSize": 32,
+        "code": 59690
+      },
+      "setIdx": 2,
+      "setId": 0,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [
+          "M938.32 784.8l-408.4 231.2v-180.080l254.080-139.92 154.32 88.8zM966.32 759.52v-483.12l-149.44 86.4v310.48l149.36 86.16zM85.68 784.8l408 231.040v-179.92l-254.16-139.92zM57.68 759.52v-483.12l149.44 86.4v310.48zM75.2 245.12l418.88-237.12v174.080l-270.56 148.8zM948.64 245.12l-418.72-237.12v174.080l270.56 148.72 148.32-85.68z",
+          "M494.080 794.96l-251.12-138.16v-273.44l251.12 144.64zM529.92 794.96l251.12-138v-273.6l-251.12 144.64zM260 352l252-138.72 252 138.72-252 145.28-252-145.28z"
+        ],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "webpack-plain"
+        ],
+        "colorPermutations": {
+          "12091642612552201181": [
+            {
+              "f": 0
+            },
+            {
+              "f": 0
+            }
+          ]
+        }
+      },
+      "attrs": [],
+      "properties": {
+        "order": 269,
+        "id": 192,
+        "name": "webpack-plain",
+        "prevSize": 32,
+        "code": 59691
+      },
+      "setIdx": 2,
+      "setId": 0,
+      "iconIdx": 1
+    },
+    {
+      "icon": {
+        "paths": [
           "M451.643 311.195l28.89 85.616-87.773-58.855z",
           "M367.098 348.658l31.016 53.506-65.286-33.169z",
           "M296.435 390.395l14.984 53.53-44.953-31.055z",
@@ -18339,9 +18415,21 @@
         "prevSize": 32,
         "code": 59688
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 46
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 0
+=======
+      "iconIdx": 2
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -18366,15 +18454,37 @@
       },
       "attrs": [],
       "properties": {
+<<<<<<< HEAD
         "order": 6,
         "id": 186,
         "name": "webpack-plain",
+||||||| parent of 6711dee... Updated Fonts & CSS
+        "order": 261,
+        "id": 190,
+        "name": "tomcat-plain",
+=======
+        "order": 271,
+        "id": 190,
+        "name": "tomcat-plain",
+>>>>>>> 6711dee... Updated Fonts & CSS
         "prevSize": 32,
         "code": 59689
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 47
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 1
+=======
+      "iconIdx": 3
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -18416,9 +18526,21 @@
         "prevSize": 32,
         "code": 59686
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 48
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 2
+=======
+      "iconIdx": 4
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -18448,9 +18570,21 @@
         "prevSize": 32,
         "code": 59687
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 49
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 3
+=======
+      "iconIdx": 5
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -18542,9 +18676,21 @@
         "prevSize": 32,
         "code": 59684
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 50
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 4
+=======
+      "iconIdx": 6
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -18596,9 +18742,21 @@
         "prevSize": 32,
         "code": 59685
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 51
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 5
+=======
+      "iconIdx": 7
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -18799,9 +18957,21 @@
         "prevSize": 32,
         "code": 59682
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 52
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 6
+=======
+      "iconIdx": 8
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -18939,9 +19109,21 @@
         "prevSize": 32,
         "code": 59683
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 53
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 7
+=======
+      "iconIdx": 9
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -18974,9 +19156,21 @@
         "id": 2,
         "code": 59680
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 54
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 8
+=======
+      "iconIdx": 10
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -19009,9 +19203,21 @@
         "id": 3,
         "code": 59681
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 55
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 9
+=======
+      "iconIdx": 11
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -19044,9 +19250,21 @@
         "id": 4,
         "code": 59676
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 56
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 10
+=======
+      "iconIdx": 12
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -19084,9 +19302,21 @@
         "id": 5,
         "code": 59677
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 57
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 11
+=======
+      "iconIdx": 13
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -19119,9 +19349,21 @@
         "id": 6,
         "code": 59678
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 58
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 12
+=======
+      "iconIdx": 14
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -19155,9 +19397,21 @@
         "id": 7,
         "code": 59679
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 59
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 13
+=======
+      "iconIdx": 15
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -19195,9 +19449,21 @@
         "id": 8,
         "code": 59673
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 60
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 14
+=======
+      "iconIdx": 16
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -19240,9 +19506,21 @@
         "id": 9,
         "code": 59674
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 61
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 15
+=======
+      "iconIdx": 17
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -19292,9 +19570,21 @@
         "id": 10,
         "code": 59675
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 62
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 16
+=======
+      "iconIdx": 18
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -19327,9 +19617,21 @@
         "id": 11,
         "code": 59671
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 63
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 17
+=======
+      "iconIdx": 19
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -19362,9 +19664,21 @@
         "id": 12,
         "code": 59672
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 64
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 18
+=======
+      "iconIdx": 20
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -19399,9 +19713,21 @@
         "id": 13,
         "code": 59665
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 65
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 19
+=======
+      "iconIdx": 21
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -19436,9 +19762,21 @@
         "id": 14,
         "code": 59666
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 66
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 20
+=======
+      "iconIdx": 22
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -19471,9 +19809,21 @@
         "id": 15,
         "code": 59667
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 67
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 21
+=======
+      "iconIdx": 23
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -19507,9 +19857,21 @@
         "id": 16,
         "code": 59668
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 68
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 22
+=======
+      "iconIdx": 24
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -19542,9 +19904,21 @@
         "id": 17,
         "code": 59669
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 69
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 23
+=======
+      "iconIdx": 25
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -19577,9 +19951,21 @@
         "id": 18,
         "code": 59670
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 70
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 24
+=======
+      "iconIdx": 26
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -19612,9 +19998,21 @@
         "id": 19,
         "code": 59651
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 71
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 25
+=======
+      "iconIdx": 27
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -19647,9 +20045,21 @@
         "id": 20,
         "code": 59654
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 72
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 26
+=======
+      "iconIdx": 28
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -19682,9 +20092,21 @@
         "id": 21,
         "code": 59655
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 73
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 27
+=======
+      "iconIdx": 29
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -19717,9 +20139,21 @@
         "id": 22,
         "code": 59656
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 74
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 28
+=======
+      "iconIdx": 30
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -19753,9 +20187,21 @@
         "id": 23,
         "code": 59657
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 75
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 29
+=======
+      "iconIdx": 31
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -19790,9 +20236,21 @@
         "id": 24,
         "code": 59658
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 76
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 30
+=======
+      "iconIdx": 32
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -19826,9 +20284,21 @@
         "id": 25,
         "code": 59659
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 77
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 31
+=======
+      "iconIdx": 33
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -19866,9 +20336,21 @@
         "id": 26,
         "code": 59660
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 78
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 32
+=======
+      "iconIdx": 34
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -19902,9 +20384,21 @@
         "id": 27,
         "code": 59661
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 79
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 33
+=======
+      "iconIdx": 35
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -19939,9 +20433,21 @@
         "id": 28,
         "code": 59662
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 80
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 34
+=======
+      "iconIdx": 36
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -19976,9 +20482,21 @@
         "id": 29,
         "code": 59663
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 81
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 35
+=======
+      "iconIdx": 37
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -20014,9 +20532,21 @@
         "id": 30,
         "code": 59664
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 82
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 36
+=======
+      "iconIdx": 38
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -20049,9 +20579,21 @@
         "id": 31,
         "code": 59650
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 83
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 37
+=======
+      "iconIdx": 39
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -20084,9 +20626,21 @@
         "id": 32,
         "code": 59633
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 84
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 38
+=======
+      "iconIdx": 40
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -20119,9 +20673,21 @@
         "id": 33,
         "code": 59652
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 85
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 39
+=======
+      "iconIdx": 41
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -20154,9 +20720,21 @@
         "id": 34,
         "code": 59653
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 86
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 40
+=======
+      "iconIdx": 42
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -20189,9 +20767,21 @@
         "id": 35,
         "code": 59648
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 87
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 41
+=======
+      "iconIdx": 43
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -20224,9 +20814,21 @@
         "id": 36,
         "code": 59649
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 88
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 42
+=======
+      "iconIdx": 44
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -20259,9 +20861,21 @@
         "id": 37,
         "code": 58930
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 89
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 43
+=======
+      "iconIdx": 45
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -20294,9 +20908,21 @@
         "id": 38,
         "code": 58938
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 90
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 44
+=======
+      "iconIdx": 46
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -20329,9 +20955,21 @@
         "id": 39,
         "code": 58939
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 91
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 45
+=======
+      "iconIdx": 47
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -20364,9 +21002,21 @@
         "id": 40,
         "code": 58940
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 92
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 46
+=======
+      "iconIdx": 48
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -20399,9 +21049,21 @@
         "id": 41,
         "code": 58941
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 93
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 47
+=======
+      "iconIdx": 49
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -20434,9 +21096,21 @@
         "id": 42,
         "code": 58942
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 94
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 48
+=======
+      "iconIdx": 50
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -20469,9 +21143,21 @@
         "id": 43,
         "code": 58943
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 95
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 49
+=======
+      "iconIdx": 51
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -20504,9 +21190,21 @@
         "id": 44,
         "code": 58931
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 96
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 50
+=======
+      "iconIdx": 52
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -20539,9 +21237,21 @@
         "id": 45,
         "code": 58922
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 97
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 51
+=======
+      "iconIdx": 53
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -20574,9 +21284,21 @@
         "id": 46,
         "code": 58923
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 98
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 52
+=======
+      "iconIdx": 54
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -20609,9 +21331,21 @@
         "id": 47,
         "code": 58932
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 99
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 53
+=======
+      "iconIdx": 55
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -20644,9 +21378,21 @@
         "id": 48,
         "code": 58933
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 100
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 54
+=======
+      "iconIdx": 56
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -20679,9 +21425,21 @@
         "id": 49,
         "code": 58934
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 101
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 55
+=======
+      "iconIdx": 57
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -20714,9 +21472,21 @@
         "id": 50,
         "code": 58935
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 102
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 56
+=======
+      "iconIdx": 58
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -20749,9 +21519,21 @@
         "id": 51,
         "code": 58936
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 103
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 57
+=======
+      "iconIdx": 59
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -20784,9 +21566,21 @@
         "id": 52,
         "code": 58937
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 104
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 58
+=======
+      "iconIdx": 60
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -20821,9 +21615,21 @@
         "id": 53,
         "code": 58897
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 105
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 59
+=======
+      "iconIdx": 61
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -20858,9 +21664,21 @@
         "id": 54,
         "code": 58898
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 106
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 60
+=======
+      "iconIdx": 62
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -20893,9 +21711,21 @@
         "id": 55,
         "code": 58899
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 107
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 61
+=======
+      "iconIdx": 63
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -20928,9 +21758,21 @@
         "id": 56,
         "code": 58900
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 108
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 62
+=======
+      "iconIdx": 64
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -20963,9 +21805,21 @@
         "id": 57,
         "code": 58901
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 109
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 63
+=======
+      "iconIdx": 65
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -20998,9 +21852,21 @@
         "id": 58,
         "code": 58902
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 110
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 64
+=======
+      "iconIdx": 66
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -21033,9 +21899,21 @@
         "id": 59,
         "code": 58903
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 111
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 65
+=======
+      "iconIdx": 67
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -21068,9 +21946,21 @@
         "id": 60,
         "code": 58904
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 112
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 66
+=======
+      "iconIdx": 68
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -21103,9 +21993,21 @@
         "id": 61,
         "code": 58905
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 113
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 67
+=======
+      "iconIdx": 69
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -21138,9 +22040,21 @@
         "id": 62,
         "code": 58906
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 114
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 68
+=======
+      "iconIdx": 70
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -21173,9 +22087,21 @@
         "id": 63,
         "code": 58917
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 115
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 69
+=======
+      "iconIdx": 71
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -21208,9 +22134,21 @@
         "id": 64,
         "code": 58918
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 116
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 70
+=======
+      "iconIdx": 72
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -21243,9 +22181,21 @@
         "id": 65,
         "code": 58919
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 117
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 71
+=======
+      "iconIdx": 73
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -21278,9 +22228,21 @@
         "id": 66,
         "code": 58920
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 118
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 72
+=======
+      "iconIdx": 74
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -21313,9 +22275,21 @@
         "id": 67,
         "code": 58921
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 119
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 73
+=======
+      "iconIdx": 75
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -21348,9 +22322,21 @@
         "id": 68,
         "code": 58896
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 120
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 74
+=======
+      "iconIdx": 76
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -21383,9 +22369,21 @@
         "id": 69,
         "code": 58886
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 121
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 75
+=======
+      "iconIdx": 77
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -21418,9 +22416,21 @@
         "id": 70,
         "code": 58887
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 122
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 76
+=======
+      "iconIdx": 78
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -21453,9 +22463,21 @@
         "id": 71,
         "code": 58888
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 123
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 77
+=======
+      "iconIdx": 79
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -21488,9 +22510,21 @@
         "id": 72,
         "code": 58889
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 124
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 78
+=======
+      "iconIdx": 80
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -21523,9 +22557,21 @@
         "id": 73,
         "code": 58890
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 125
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 79
+=======
+      "iconIdx": 81
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -21558,9 +22604,21 @@
         "id": 74,
         "code": 58891
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 126
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 80
+=======
+      "iconIdx": 82
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -21593,9 +22651,21 @@
         "id": 75,
         "code": 58892
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 127
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 81
+=======
+      "iconIdx": 83
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -21628,9 +22698,21 @@
         "id": 76,
         "code": 58895
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 128
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 82
+=======
+      "iconIdx": 84
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -21663,9 +22745,21 @@
         "id": 77,
         "code": 58907
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 129
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 83
+=======
+      "iconIdx": 85
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -21698,9 +22792,21 @@
         "id": 78,
         "code": 58910
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 130
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 84
+=======
+      "iconIdx": 86
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -21733,9 +22839,21 @@
         "id": 79,
         "code": 58911
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 131
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 85
+=======
+      "iconIdx": 87
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -21768,9 +22886,21 @@
         "id": 80,
         "code": 58882
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 132
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 86
+=======
+      "iconIdx": 88
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -21803,9 +22933,21 @@
         "id": 81,
         "code": 58885
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 133
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 87
+=======
+      "iconIdx": 89
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -21839,9 +22981,21 @@
         "id": 82,
         "code": 58880
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 134
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 88
+=======
+      "iconIdx": 90
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -21875,9 +23029,21 @@
         "id": 83,
         "code": 58881
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 135
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 89
+=======
+      "iconIdx": 91
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -21910,9 +23076,21 @@
         "id": 84,
         "code": 58883
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 136
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 90
+=======
+      "iconIdx": 92
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -21945,9 +23123,21 @@
         "id": 85,
         "code": 58884
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 137
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 91
+=======
+      "iconIdx": 93
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -21980,9 +23170,21 @@
         "id": 86,
         "code": 58893
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 138
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 92
+=======
+      "iconIdx": 94
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -22015,9 +23217,21 @@
         "id": 87,
         "code": 58894
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 139
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 93
+=======
+      "iconIdx": 95
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -22050,9 +23264,21 @@
         "id": 88,
         "code": 58908
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 140
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 94
+=======
+      "iconIdx": 96
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -22085,9 +23311,21 @@
         "id": 89,
         "code": 58909
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 141
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 95
+=======
+      "iconIdx": 97
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -22120,9 +23358,21 @@
         "id": 90,
         "code": 58912
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 142
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 96
+=======
+      "iconIdx": 98
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -22155,9 +23405,21 @@
         "id": 91,
         "code": 58913
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 143
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 97
+=======
+      "iconIdx": 99
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -22190,9 +23452,21 @@
         "id": 92,
         "code": 58914
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 144
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 98
+=======
+      "iconIdx": 100
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -22226,9 +23500,21 @@
         "id": 93,
         "code": 58915
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 145
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 99
+=======
+      "iconIdx": 101
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -22261,9 +23547,21 @@
         "id": 94,
         "code": 58916
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 146
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 100
+=======
+      "iconIdx": 102
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -22296,9 +23594,21 @@
         "id": 95,
         "code": 58924
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 147
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 101
+=======
+      "iconIdx": 103
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -22331,9 +23641,21 @@
         "id": 96,
         "code": 58925
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 148
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 102
+=======
+      "iconIdx": 104
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -22366,9 +23688,21 @@
         "id": 97,
         "code": 58926
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 149
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 103
+=======
+      "iconIdx": 105
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -22401,9 +23735,21 @@
         "id": 98,
         "code": 58927
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 150
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 104
+=======
+      "iconIdx": 106
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -22436,9 +23782,21 @@
         "id": 99,
         "code": 58928
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 151
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 105
+=======
+      "iconIdx": 107
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -22471,9 +23829,21 @@
         "id": 100,
         "code": 58929
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 152
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 106
+=======
+      "iconIdx": 108
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -22506,9 +23876,21 @@
         "id": 101,
         "code": 58958
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 153
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 107
+=======
+      "iconIdx": 109
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -22541,9 +23923,21 @@
         "id": 102,
         "code": 58959
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 154
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 108
+=======
+      "iconIdx": 110
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -22577,9 +23971,21 @@
         "id": 103,
         "code": 58981
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 155
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 109
+=======
+      "iconIdx": 111
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -22613,9 +24019,21 @@
         "id": 104,
         "code": 58982
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 156
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 110
+=======
+      "iconIdx": 112
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -22648,9 +24066,21 @@
         "id": 105,
         "code": 58983
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 157
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 111
+=======
+      "iconIdx": 113
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -22683,9 +24113,21 @@
         "id": 106,
         "code": 58984
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 158
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 112
+=======
+      "iconIdx": 114
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -22718,9 +24160,21 @@
         "id": 107,
         "code": 58985
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 159
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 113
+=======
+      "iconIdx": 115
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -22753,9 +24207,21 @@
         "id": 108,
         "code": 58986
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 160
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 114
+=======
+      "iconIdx": 116
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -22789,9 +24255,21 @@
         "id": 109,
         "code": 59000
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 161
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 115
+=======
+      "iconIdx": 117
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -22824,9 +24302,21 @@
         "id": 110,
         "code": 59001
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 162
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 116
+=======
+      "iconIdx": 118
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -22859,9 +24349,21 @@
         "id": 111,
         "code": 59006
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 163
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 117
+=======
+      "iconIdx": 119
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -22894,9 +24396,21 @@
         "id": 112,
         "code": 59007
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 164
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 118
+=======
+      "iconIdx": 120
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -22933,9 +24447,21 @@
         "id": 113,
         "code": 59091
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 165
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 119
+=======
+      "iconIdx": 121
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -22968,9 +24494,21 @@
         "id": 114,
         "code": 59092
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 166
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 120
+=======
+      "iconIdx": 122
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -23003,9 +24541,21 @@
         "id": 115,
         "code": 59106
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 167
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 121
+=======
+      "iconIdx": 123
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -23038,9 +24588,21 @@
         "id": 116,
         "code": 59107
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 168
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 122
+=======
+      "iconIdx": 124
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -23074,9 +24636,21 @@
         "id": 117,
         "code": 59229
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 169
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 123
+=======
+      "iconIdx": 125
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -23109,9 +24683,21 @@
         "id": 118,
         "code": 59230
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 170
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 124
+=======
+      "iconIdx": 126
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -23144,9 +24730,21 @@
         "id": 119,
         "code": 59298
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 171
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 125
+=======
+      "iconIdx": 127
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -23179,9 +24777,21 @@
         "id": 120,
         "code": 59299
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 172
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 126
+=======
+      "iconIdx": 128
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -23214,9 +24824,21 @@
         "id": 121,
         "code": 59303
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 173
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 127
+=======
+      "iconIdx": 129
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -23249,9 +24871,21 @@
         "id": 122,
         "code": 59304
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 174
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 128
+=======
+      "iconIdx": 130
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -23284,9 +24918,21 @@
         "id": 123,
         "code": 59305
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 175
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 129
+=======
+      "iconIdx": 131
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -23319,9 +24965,21 @@
         "id": 124,
         "code": 59306
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 176
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 130
+=======
+      "iconIdx": 132
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -23354,9 +25012,21 @@
         "id": 125,
         "code": 59370
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 177
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 131
+=======
+      "iconIdx": 133
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -23389,9 +25059,21 @@
         "id": 126,
         "code": 59371
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 178
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 132
+=======
+      "iconIdx": 134
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -23424,9 +25106,21 @@
         "id": 127,
         "code": 59372
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 179
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 133
+=======
+      "iconIdx": 135
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -23459,9 +25153,21 @@
         "id": 128,
         "code": 59382
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 180
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 134
+=======
+      "iconIdx": 136
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -23494,9 +25200,21 @@
         "id": 129,
         "code": 59383
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 181
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 135
+=======
+      "iconIdx": 137
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -23529,9 +25247,21 @@
         "id": 130,
         "code": 59384
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 182
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 136
+=======
+      "iconIdx": 138
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -23564,9 +25294,21 @@
         "id": 131,
         "code": 59385
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 183
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 137
+=======
+      "iconIdx": 139
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -23599,9 +25341,21 @@
         "id": 132,
         "code": 59386
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 184
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 138
+=======
+      "iconIdx": 140
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -23634,9 +25388,21 @@
         "id": 133,
         "code": 59444
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 185
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 139
+=======
+      "iconIdx": 141
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -23669,9 +25435,21 @@
         "id": 134,
         "code": 59445
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 186
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 140
+=======
+      "iconIdx": 142
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -23704,9 +25482,21 @@
         "id": 135,
         "code": 59457
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 187
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 141
+=======
+      "iconIdx": 143
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -23739,9 +25529,21 @@
         "id": 136,
         "code": 59458
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 188
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 142
+=======
+      "iconIdx": 144
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -23774,9 +25576,21 @@
         "id": 137,
         "code": 59461
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 189
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 143
+=======
+      "iconIdx": 145
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -23809,9 +25623,21 @@
         "id": 138,
         "code": 59465
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 190
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 144
+=======
+      "iconIdx": 146
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -23844,9 +25670,21 @@
         "id": 139,
         "code": 59466
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 191
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 145
+=======
+      "iconIdx": 147
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -23879,9 +25717,21 @@
         "id": 140,
         "code": 59471
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 192
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 146
+=======
+      "iconIdx": 148
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -23914,9 +25764,21 @@
         "id": 141,
         "code": 59472
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 193
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 147
+=======
+      "iconIdx": 149
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -23949,9 +25811,21 @@
         "id": 142,
         "code": 59473
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 194
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 148
+=======
+      "iconIdx": 150
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -23985,9 +25859,21 @@
         "id": 143,
         "code": 59474
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 195
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 149
+=======
+      "iconIdx": 151
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -24020,9 +25906,21 @@
         "id": 144,
         "code": 59475
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 196
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 150
+=======
+      "iconIdx": 152
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -24055,9 +25953,21 @@
         "id": 145,
         "code": 60188
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 197
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 151
+=======
+      "iconIdx": 153
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -24090,9 +26000,21 @@
         "id": 146,
         "code": 60227
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 198
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 152
+=======
+      "iconIdx": 154
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -24125,9 +26047,21 @@
         "id": 147,
         "code": 60228
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 199
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 153
+=======
+      "iconIdx": 155
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -24160,9 +26094,21 @@
         "id": 148,
         "code": 60250
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 200
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 154
+=======
+      "iconIdx": 156
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -24195,9 +26141,21 @@
         "id": 149,
         "code": 60251
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 201
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 155
+=======
+      "iconIdx": 157
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -24230,9 +26188,21 @@
         "id": 150,
         "code": 60256
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 202
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 156
+=======
+      "iconIdx": 158
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -24265,9 +26235,21 @@
         "id": 151,
         "code": 60257
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 203
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 157
+=======
+      "iconIdx": 159
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -24300,9 +26282,21 @@
         "id": 152,
         "code": 60265
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 204
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 158
+=======
+      "iconIdx": 160
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -24335,9 +26329,21 @@
         "id": 153,
         "code": 60266
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 205
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 159
+=======
+      "iconIdx": 161
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -24370,9 +26376,21 @@
         "id": 154,
         "code": 60267
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 206
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 160
+=======
+      "iconIdx": 162
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -24405,9 +26423,21 @@
         "id": 155,
         "code": 60268
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 207
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 161
+=======
+      "iconIdx": 163
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -24440,9 +26470,21 @@
         "id": 156,
         "code": 60269
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 208
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 162
+=======
+      "iconIdx": 164
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -24475,9 +26517,21 @@
         "id": 157,
         "code": 60273
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 209
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 163
+=======
+      "iconIdx": 165
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -24511,9 +26565,21 @@
         "id": 158,
         "code": 60284
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 210
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 164
+=======
+      "iconIdx": 166
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -24546,6 +26612,7 @@
         "id": 159,
         "code": 60285
       },
+<<<<<<< HEAD
       "setIdx": 0,
       "setId": 0,
       "iconIdx": 211
@@ -24578,6 +26645,143 @@
         ],
         "defaultCode": 60296,
         "grid": 0
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+      "setId": 0,
+      "iconIdx": 165
+    },
+    {
+      "icon": {
+        "paths": [
+          "M320 544v-80.632c0-55.784 49.744-103.368 107.064-103.368h168.816c46.992 0 76.12-40.32 76.12-87.504v-160.936c0-45.808-34.448-80.208-80.32-87.848-29.032-4.832-57.048-7.032-85.944-6.896-28.888 0.136-58.712 2.592-82.992 6.896-71.528 12.624-86.744 39.072-86.744 87.848v64.44h168v24h-224.872c-49.12 0-92.128 28.24-105.584 84.416-15.512 64.376-16.2 105.616 0 172.84 12.016 50.032 40.712 86.744 89.824 86.744h56.632zM416.432 133.024c-17.52 0-31.712-14.36-31.712-32.104 0-17.832 14.184-32.312 31.712-32.312 17.456 0 31.712 14.488 31.712 32.312 0 17.744-14.256 32.104-31.712 32.104zM849.4 284.416c-12.136-48.912-35.328-84.416-84.504-84.416h-68.896v72.496c0 58.184-43.872 111.504-100.12 111.504h-168.816c-46.24 0-91.064 35.224-91.064 81.544v160.936c0 45.8 43.104 72.744 87.792 85.872 53.488 15.736 102.248 18.576 166.256 0 42.544-12.32 81.952-37.104 81.952-85.872v-58.48h-168v-24h260.888c49.12 0 67.424-35.328 84.504-86.744 17.648-52.944 16.896-104.92 0.008-172.84zM606.512 605c17.52 0 31.72 14.36 31.72 32.12 0 17.816-14.192 32.296-31.72 32.296-17.456 0-31.704-14.488-31.704-32.296 0-17.76 14.248-32.12 31.704-32.12z",
+          "M279.288 896.392c0-30.056-8.576-45.488-25.712-46.328-6.824-0.328-13.48 0.76-19.96 3.272-5.168 1.848-8.656 3.688-10.488 5.536v71.744c10.968 6.88 20.704 10.080 29.192 9.576 17.976-1.184 26.968-15.768 26.968-43.8zM300.432 897.648c0 15.272-3.576 27.944-10.784 38.024-8.024 11.416-19.152 17.28-33.376 17.608-10.72 0.344-21.768-3.024-33.136-10.064v65.208l-18.384-6.56v-144.744c3.016-3.696 6.896-6.872 11.608-9.568 10.944-6.384 24.248-9.656 39.896-9.824l0.264 0.256c14.304-0.176 25.328 5.696 33.072 17.608 7.216 10.928 10.84 24.936 10.84 42.056z",
+          "M412.824 940.44c0 20.48-2.056 34.664-6.16 42.544-4.128 7.888-11.976 14.184-23.56 18.872-9.392 3.704-19.552 5.712-30.464 6.056l-3.040-11.584c11.088-1.504 18.896-3.024 23.424-4.528 8.912-3.016 15.024-7.64 18.384-13.84 2.696-5.048 4.024-14.68 4.024-28.944v-4.792c-12.568 5.712-25.752 8.544-39.528 8.544-9.056 0-17.040-2.832-23.92-8.544-7.728-6.216-11.592-14.112-11.592-23.664v-76.528l18.392-6.296v77.040c0 8.224 2.656 14.56 7.968 19.008s12.192 6.576 20.624 6.424c8.432-0.176 17.464-3.448 27.056-9.824v-89.872h18.392v99.928z",
+          "M484.608 952.272c-2.192 0.176-4.2 0.256-6.056 0.256-10.4 0-18.512-2.472-24.304-7.44-5.776-4.976-8.672-11.832-8.672-20.584v-72.432h-12.592v-11.568h12.592v-30.72l18.368-6.536v37.256h20.664v11.568h-20.664v71.928c0 6.896 1.848 11.792 5.552 14.64 3.176 2.36 8.232 3.704 15.112 4.048v9.584z",
+          "M595.944 950.76h-18.384v-70.984c0-7.216-1.688-13.44-5.048-18.632-3.88-5.872-9.272-8.816-16.192-8.816-8.432 0-18.976 4.448-31.632 13.344v85.088h-18.384v-169.664l18.384-5.8v77.272c11.752-8.544 24.584-12.832 38.528-12.832 9.744 0 17.624 3.28 23.664 9.824 6.056 6.536 9.072 14.688 9.072 24.424v76.776h-0.008z",
+          "M693.688 893.504c0-11.552-2.192-21.088-6.56-28.632-5.192-9.192-13.256-14.048-24.168-14.544-20.16 1.168-30.224 15.608-30.224 43.296 0 12.696 2.096 23.296 6.32 31.808 5.392 10.848 13.48 16.192 24.264 16.016 20.248-0.16 30.368-16.136 30.368-47.944zM713.832 893.624c0 16.44-4.208 30.12-12.6 41.048-9.232 12.224-21.992 18.368-38.264 18.368-16.136 0-28.712-6.144-37.784-18.368-8.224-10.928-12.336-24.608-12.336-41.048 0-15.456 4.448-28.448 13.344-39.032 9.392-11.224 21.744-16.856 37.016-16.856s27.704 5.632 37.28 16.856c8.888 10.584 13.344 23.576 13.344 39.032z",
+          "M819.256 950.76h-18.392v-75.008c0-8.224-2.48-14.648-7.424-19.272-4.952-4.608-11.544-6.84-19.776-6.664-8.728 0.168-17.040 3.024-24.928 8.552v92.392h-18.392v-94.664c10.584-7.704 20.32-12.736 29.216-15.088 8.392-2.192 15.792-3.28 22.168-3.28 4.36 0 8.472 0.424 12.336 1.264 7.224 1.672 13.096 4.768 17.624 9.312 5.048 5.032 7.568 11.072 7.568 18.136v84.32z"
+        ],
+        "attrs": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "isMulticolor": false,
+        "tags": [
+          "python-plain-wordmark"
+        ],
+        "grid": 0,
+        "colorPermutations": {
+          "226674112521093812521633819292921": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "255255255161901521": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "5373941651841311": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "12091642612552201181": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+=======
+      "setIdx": 2,
+      "setId": 0,
+      "iconIdx": 167
+    },
+    {
+      "icon": {
+        "paths": [
+          "M320 544v-80.632c0-55.784 49.744-103.368 107.064-103.368h168.816c46.992 0 76.12-40.32 76.12-87.504v-160.936c0-45.808-34.448-80.208-80.32-87.848-29.032-4.832-57.048-7.032-85.944-6.896-28.888 0.136-58.712 2.592-82.992 6.896-71.528 12.624-86.744 39.072-86.744 87.848v64.44h168v24h-224.872c-49.12 0-92.128 28.24-105.584 84.416-15.512 64.376-16.2 105.616 0 172.84 12.016 50.032 40.712 86.744 89.824 86.744h56.632zM416.432 133.024c-17.52 0-31.712-14.36-31.712-32.104 0-17.832 14.184-32.312 31.712-32.312 17.456 0 31.712 14.488 31.712 32.312 0 17.744-14.256 32.104-31.712 32.104zM849.4 284.416c-12.136-48.912-35.328-84.416-84.504-84.416h-68.896v72.496c0 58.184-43.872 111.504-100.12 111.504h-168.816c-46.24 0-91.064 35.224-91.064 81.544v160.936c0 45.8 43.104 72.744 87.792 85.872 53.488 15.736 102.248 18.576 166.256 0 42.544-12.32 81.952-37.104 81.952-85.872v-58.48h-168v-24h260.888c49.12 0 67.424-35.328 84.504-86.744 17.648-52.944 16.896-104.92 0.008-172.84zM606.512 605c17.52 0 31.72 14.36 31.72 32.12 0 17.816-14.192 32.296-31.72 32.296-17.456 0-31.704-14.488-31.704-32.296 0-17.76 14.248-32.12 31.704-32.12z",
+          "M279.288 896.392c0-30.056-8.576-45.488-25.712-46.328-6.824-0.328-13.48 0.76-19.96 3.272-5.168 1.848-8.656 3.688-10.488 5.536v71.744c10.968 6.88 20.704 10.080 29.192 9.576 17.976-1.184 26.968-15.768 26.968-43.8zM300.432 897.648c0 15.272-3.576 27.944-10.784 38.024-8.024 11.416-19.152 17.28-33.376 17.608-10.72 0.344-21.768-3.024-33.136-10.064v65.208l-18.384-6.56v-144.744c3.016-3.696 6.896-6.872 11.608-9.568 10.944-6.384 24.248-9.656 39.896-9.824l0.264 0.256c14.304-0.176 25.328 5.696 33.072 17.608 7.216 10.928 10.84 24.936 10.84 42.056z",
+          "M412.824 940.44c0 20.48-2.056 34.664-6.16 42.544-4.128 7.888-11.976 14.184-23.56 18.872-9.392 3.704-19.552 5.712-30.464 6.056l-3.040-11.584c11.088-1.504 18.896-3.024 23.424-4.528 8.912-3.016 15.024-7.64 18.384-13.84 2.696-5.048 4.024-14.68 4.024-28.944v-4.792c-12.568 5.712-25.752 8.544-39.528 8.544-9.056 0-17.040-2.832-23.92-8.544-7.728-6.216-11.592-14.112-11.592-23.664v-76.528l18.392-6.296v77.040c0 8.224 2.656 14.56 7.968 19.008s12.192 6.576 20.624 6.424c8.432-0.176 17.464-3.448 27.056-9.824v-89.872h18.392v99.928z",
+          "M484.608 952.272c-2.192 0.176-4.2 0.256-6.056 0.256-10.4 0-18.512-2.472-24.304-7.44-5.776-4.976-8.672-11.832-8.672-20.584v-72.432h-12.592v-11.568h12.592v-30.72l18.368-6.536v37.256h20.664v11.568h-20.664v71.928c0 6.896 1.848 11.792 5.552 14.64 3.176 2.36 8.232 3.704 15.112 4.048v9.584z",
+          "M595.944 950.76h-18.384v-70.984c0-7.216-1.688-13.44-5.048-18.632-3.88-5.872-9.272-8.816-16.192-8.816-8.432 0-18.976 4.448-31.632 13.344v85.088h-18.384v-169.664l18.384-5.8v77.272c11.752-8.544 24.584-12.832 38.528-12.832 9.744 0 17.624 3.28 23.664 9.824 6.056 6.536 9.072 14.688 9.072 24.424v76.776h-0.008z",
+          "M693.688 893.504c0-11.552-2.192-21.088-6.56-28.632-5.192-9.192-13.256-14.048-24.168-14.544-20.16 1.168-30.224 15.608-30.224 43.296 0 12.696 2.096 23.296 6.32 31.808 5.392 10.848 13.48 16.192 24.264 16.016 20.248-0.16 30.368-16.136 30.368-47.944zM713.832 893.624c0 16.44-4.208 30.12-12.6 41.048-9.232 12.224-21.992 18.368-38.264 18.368-16.136 0-28.712-6.144-37.784-18.368-8.224-10.928-12.336-24.608-12.336-41.048 0-15.456 4.448-28.448 13.344-39.032 9.392-11.224 21.744-16.856 37.016-16.856s27.704 5.632 37.28 16.856c8.888 10.584 13.344 23.576 13.344 39.032z",
+          "M819.256 950.76h-18.392v-75.008c0-8.224-2.48-14.648-7.424-19.272-4.952-4.608-11.544-6.84-19.776-6.664-8.728 0.168-17.040 3.024-24.928 8.552v92.392h-18.392v-94.664c10.584-7.704 20.32-12.736 29.216-15.088 8.392-2.192 15.792-3.28 22.168-3.28 4.36 0 8.472 0.424 12.336 1.264 7.224 1.672 13.096 4.768 17.624 9.312 5.048 5.032 7.568 11.072 7.568 18.136v84.32z"
+        ],
+        "attrs": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "isMulticolor": false,
+        "tags": [
+          "python-plain-wordmark"
+        ],
+        "grid": 0,
+        "colorPermutations": {
+          "226674112521093812521633819292921": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "255255255161901521": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "5373941651841311": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "12091642612552201181": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+>>>>>>> 6711dee... Updated Fonts & CSS
       },
       "attrs": [],
       "properties": {
@@ -24587,9 +26791,21 @@
         "id": 160,
         "code": 60296
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 212
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 166
+=======
+      "iconIdx": 168
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -24622,9 +26838,21 @@
         "id": 161,
         "code": 60297
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 213
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 167
+=======
+      "iconIdx": 169
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -24662,9 +26890,21 @@
         "id": 162,
         "code": 60322
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 214
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 168
+=======
+      "iconIdx": 170
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -24697,9 +26937,21 @@
         "id": 163,
         "code": 60323
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 215
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 169
+=======
+      "iconIdx": 171
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -24732,9 +26984,21 @@
         "id": 164,
         "code": 60361
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 216
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 170
+=======
+      "iconIdx": 172
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -24767,9 +27031,21 @@
         "id": 165,
         "code": 60362
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 217
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 171
+=======
+      "iconIdx": 173
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -24802,9 +27078,21 @@
         "id": 166,
         "code": 60363
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 218
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 172
+=======
+      "iconIdx": 174
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -24837,9 +27125,21 @@
         "id": 167,
         "code": 60364
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 219
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 173
+=======
+      "iconIdx": 175
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -24872,9 +27172,21 @@
         "id": 168,
         "code": 60365
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 220
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 174
+=======
+      "iconIdx": 176
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -24908,9 +27220,21 @@
         "id": 169,
         "code": 60366
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 221
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 175
+=======
+      "iconIdx": 177
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -24943,9 +27267,21 @@
         "id": 170,
         "code": 60367
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 222
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 176
+=======
+      "iconIdx": 178
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -24978,9 +27314,21 @@
         "id": 171,
         "code": 60368
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 223
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 177
+=======
+      "iconIdx": 179
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -25013,9 +27361,21 @@
         "id": 172,
         "code": 60369
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 224
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 178
+=======
+      "iconIdx": 180
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -25048,9 +27408,21 @@
         "id": 173,
         "code": 60403
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 225
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 179
+=======
+      "iconIdx": 181
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -25083,9 +27455,21 @@
         "id": 174,
         "code": 60404
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 226
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 180
+=======
+      "iconIdx": 182
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -25118,9 +27502,21 @@
         "id": 175,
         "code": 60405
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 227
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 181
+=======
+      "iconIdx": 183
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -25153,9 +27549,21 @@
         "id": 176,
         "code": 60413
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 228
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 182
+=======
+      "iconIdx": 184
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -25188,9 +27596,21 @@
         "id": 177,
         "code": 60414
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 229
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 183
+=======
+      "iconIdx": 185
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -25225,9 +27645,21 @@
         "id": 178,
         "code": 60417
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 230
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 184
+=======
+      "iconIdx": 186
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -25260,9 +27692,21 @@
         "id": 179,
         "code": 60418
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 231
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 185
+=======
+      "iconIdx": 187
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -25295,9 +27739,21 @@
         "id": 180,
         "code": 60419
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 232
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 186
+=======
+      "iconIdx": 188
+>>>>>>> 6711dee... Updated Fonts & CSS
     },
     {
       "icon": {
@@ -25330,9 +27786,21 @@
         "id": 181,
         "code": 60420
       },
+<<<<<<< HEAD
       "setIdx": 0,
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "setIdx": 1,
+=======
+      "setIdx": 2,
+>>>>>>> 6711dee... Updated Fonts & CSS
       "setId": 0,
+<<<<<<< HEAD
       "iconIdx": 233
+||||||| parent of 6711dee... Updated Fonts & CSS
+      "iconIdx": 187
+=======
+      "iconIdx": 189
+>>>>>>> 6711dee... Updated Fonts & CSS
     }
   ],
   "height": 1024,

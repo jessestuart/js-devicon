@@ -937,6 +937,7 @@
     }
   },
   {
+<<<<<<< HEAD
     "name": "webstorm",
     "tags": ["editor"],
     "versions": {
@@ -956,6 +957,17 @@
   },
   {
 >>>>>>> b71b8d2... Updated Fonts & CSS
+||||||| parent of 6711dee... Updated Fonts & CSS
+=======
+    "name": "webpack",
+    "tags": ["packager"],
+    "versions": {
+      "svg": ["original", "original-wordmark", "plain", "plain-wordmark"],
+      "font": ["plain", "plain-wordmark"]
+    }
+  },
+  {
+>>>>>>> 6711dee... Updated Fonts & CSS
     "name": "windows8",
     "tags": ["os"],
     "versions": {

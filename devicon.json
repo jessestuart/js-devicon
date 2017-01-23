@@ -720,6 +720,14 @@
     }
   },
   {
+    "name": "uirouter",
+    "tags": ["router"],
+    "versions": {
+      "svg": ["original", "plain"],
+      "font": ["plain"]
+    }
+  },
+  {
     "name": "vim",
     "tags": ["editor"],
     "versions": {

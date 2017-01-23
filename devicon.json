@@ -896,6 +896,7 @@
     }
   },
   {
+<<<<<<< HEAD
     "name": "vagrant",
     "tags": ["platform"],
     "versions": {
@@ -904,6 +905,17 @@
     }
   },
   {
+||||||| parent of f54c800... Updated Fonts & CSS
+=======
+    "name": "uirouter",
+    "tags": ["router"],
+    "versions": {
+      "svg": ["original", "plain"],
+      "font": ["plain"]
+    }
+  },
+  {
+>>>>>>> f54c800... Updated Fonts & CSS
     "name": "vim",
     "tags": ["editor"],
     "versions": {

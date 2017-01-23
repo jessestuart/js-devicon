@@ -25,6 +25,10 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.devicon-uirouter-plain:before,
+.devicon-uirouter-original:before {
+  content: "\e92c";
+}
 .devicon-webpack-plain-wordmark:before,
 .devicon-webpack-original-wordmark:before {
   content: "\e92a";
@@ -652,6 +656,10 @@
 }
 /* ICONS
  * -------------------------- */
+.devicon-uirouter-plain.colored,
+.devicon-uirouter-original.colored {
+  color: #1A2980;
+}
 .devicon-webpack-plain-wordmark.colored,
 .devicon-webpack-original-wordmark.colored {
   color: #1C78C0;

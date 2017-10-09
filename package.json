@@ -1,28 +1,28 @@
 {
   "name": "js-devicon",
+  "description": "Programming-related icons collection.",
   "version": "2.7.0",
-  "description": "Programming related icons collection",
-  "main": "less/devicon.less",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": "jessestuart",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-concat-css": "^2.0.0",
+    "gulp-less": "^3.3.2",
+    "gulp-plumber": "^1.1.0"
   },
+  "keywords": [
+    "font",
+    "icons",
+    "programming",
+    "svg"
+  ],
+  "license": "MIT",
+  "main": "less/devicon.less",
   "repository": {
     "type": "git",
     "url": "https://github.com/jessestuart/devicon.git"
   },
-  "keywords": [
-    "programming",
-    "icons",
-    "svg",
-    "font"
-  ],
-  "author": "jessestuart",
-  "license": "MIT",
-  "devDependencies": {
-    "gulp": "^3.8.10",
-    "gulp-concat-css": "^2.0.0",
-    "gulp-less": "^3.3.2",
-    "gulp-minify-css": "^0.4.3",
-    "gulp-plumber": "^0.6.6"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }

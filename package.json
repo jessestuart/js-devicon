@@ -1,5 +1,5 @@
 {
-  "name": "devicon",
+  "name": "js-devicon",
   "version": "2.7.0",
   "description": "Programming related icons collection",
   "main": "less/devicon.less",

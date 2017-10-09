@@ -1,6 +1,6 @@
 {
   "name": "devicon",
-  "version": "2.6.0",
+  "version": "2.7.0",
   "description": "Programming related icons collection",
   "main": "less/devicon.less",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/konpa/devicon.git"
+    "url": "https://github.com/jessestuart/devicon.git"
   },
   "keywords": [
     "programming",
@@ -16,15 +16,12 @@
     "svg",
     "font"
   ],
-  "author": "konpa",
+  "author": "jessestuart",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/konpa/devicon/issues"
-  },
-  "homepage": "http://konpa.github.io/devicon/",
   "devDependencies": {
     "gulp": "^3.8.10",
     "gulp-concat-css": "^2.0.0",
+    "gulp-less": "^3.3.2",
     "gulp-minify-css": "^0.4.3",
     "gulp-plumber": "^0.6.6"
   }

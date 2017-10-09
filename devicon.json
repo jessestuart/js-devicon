@@ -456,7 +456,6 @@
     }
   },
   {
-<<<<<<< HEAD
     "name": "intellij",
     "tags": ["editor"],
     "versions": {
@@ -473,8 +472,6 @@
     }
   },
   {
-||||||| parent of 1494740... Updated Fonts
-=======
     "name": "jade",
     "tags": ["programming", "language"],
     "versions": {
@@ -483,7 +480,6 @@
     }
   },
   {
->>>>>>> 1494740... Updated Fonts
     "name": "java",
     "tags": ["programming", "language"],
     "versions": {
@@ -836,26 +832,14 @@
     }
   },
   {
-<<<<<<< HEAD
     "name": "tomcat",
-    "tags": ["server"],
-    "versions": {
-      "svg": ["original", "original-wordmark", "line", "line-wordmark"],
-      "font": ["line", "line-wordmark"]
-    }
-  },
-  {
-||||||| parent of b71b8d2... Updated Fonts & CSS
-=======
-    "name": "tomcat",
-    "tags": ["platform"],
+    "tags": ["platform", "server"],
     "versions": {
       "svg": ["original", "original-wordmark", "line", "line-wordmark"],
       "font": ["plain", "plain-wordmark"]
     }
   },
   {
->>>>>>> b71b8d2... Updated Fonts & CSS
     "name": "travis",
     "tags": ["platform", "integration"],
     "versions": {
@@ -896,7 +880,6 @@
     }
   },
   {
-<<<<<<< HEAD
     "name": "vagrant",
     "tags": ["platform"],
     "versions": {
@@ -905,8 +888,6 @@
     }
   },
   {
-||||||| parent of f54c800... Updated Fonts & CSS
-=======
     "name": "uirouter",
     "tags": ["router"],
     "versions": {
@@ -915,7 +896,6 @@
     }
   },
   {
->>>>>>> f54c800... Updated Fonts & CSS
     "name": "vim",
     "tags": ["editor"],
     "versions": {
@@ -924,7 +904,6 @@
     }
   },
   {
-<<<<<<< HEAD
 	  "name": "visualstudio",
 	  "tags": ["editor"],
 	  "versions": {
@@ -949,7 +928,6 @@
     }
   },
   {
-<<<<<<< HEAD
     "name": "webstorm",
     "tags": ["editor"],
     "versions": {
@@ -958,8 +936,6 @@
     }
   },
   {
-||||||| parent of b71b8d2... Updated Fonts & CSS
-=======
     "name": "vuejs",
     "tags": ["framework"],
     "versions": {
@@ -968,9 +944,6 @@
     }
   },
   {
->>>>>>> b71b8d2... Updated Fonts & CSS
-||||||| parent of 6711dee... Updated Fonts & CSS
-=======
     "name": "webpack",
     "tags": ["packager"],
     "versions": {
@@ -979,7 +952,6 @@
     }
   },
   {
->>>>>>> 6711dee... Updated Fonts & CSS
     "name": "windows8",
     "tags": ["os"],
     "versions": {

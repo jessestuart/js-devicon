@@ -5,24 +5,30 @@ var less = require('gulp-less');
 var plumber = require('gulp-plumber');
 var path = require('path');
 
-gulp.task('concat-css', function () {
-  gulp.src(['./devicon.css', './devicon-colors.css'])
-  .pipe(plumber())
-  .pipe(concatCss('./devicon.min.css'))
-  .pipe(gulp.dest('./'));
+gulp.task('concat-css', function() {
+  gulp
+    .src(['./devicon.css', './devicon-colors.css'])
+    .pipe(plumber())
+    .pipe(concatCss('./devicon.min.css'))
+    .pipe(gulp.dest('./'));
 });
 
 gulp.task('minify-css', function() {
-  gulp.src('./devicon.min.css')
-  .pipe(plumber())
-  .pipe(minifyCSS())
-  .pipe(gulp.dest('./'))
+  gulp
+    .src('./devicon.min.css')
+    .pipe(plumber())
+    .pipe(minifyCSS())
+    .pipe(gulp.dest('./'));
 });
 
-gulp.task('less', function () {
-  return gulp.src('./less/devicon.less')
-      .pipe(less({
-        paths: [ path.join(__dirname, 'less', 'includes') ]
+gulp.task('less', function() {
+  return gulp
+    .src('./less/devicon.less')
+    .pipe(
+      less({
+        paths: [path.join(__dirname, 'less', 'includes')],
       }))
-      .pipe(gulp.dest('./'));
+    .pipe(gulp.dest('./'));
 });
+
+gulp.task('default', ['concat-css', 'minify-css', 'less']);

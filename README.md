@@ -1,13 +1,16 @@
-# Devicon v2
+# DevIcon v2
+[![npm version](https://badge.fury.io/js/js-DevIcon.svg)](https://badge.fury.io/js/js-DevIcon)
 
-[http://konpa.github.io/devicon/](http://konpa.github.io/devicon/)
+DevIcon aims to gather all logos representing development languages, tools,
+and platforms.
 
-Devicon aims to gather all logos representing development languages and tools.
-Each icon comes in several versions: font/svg, original/plain/line, colored/not colored, wordmark/no wordmark.
+Each icon comes in several versions:
+- Font / SVG
+- Original / Plain / Line
+- Colored / Not Colored
+- Wordmark / No Wordmark
 
-Devicon it's 78 icons and 200+ versions. And it's growing!
-
-See all available icons on the [new website](http://konpa.github.io/devicon/).
+See all available icons on the [new website](http://konpa.github.io/DevIcon/).
 
 #### Icon requests
 
@@ -76,7 +79,7 @@ You can install devicon as a dependency to your project either with NPM or Bower
 ```
   // NPM
   npm install --save devicon
-  
+
   // Bower
   bower install --save devicon
 ```

@@ -4,10 +4,10 @@
   "version": "2.7.3",
   "author": "jessestuart",
   "devDependencies": {
-    "gulp": "^3.8.10",
-    "gulp-clean-css": "^3.9.0",
-    "gulp-concat-css": "^2.0.0",
-    "gulp-less": "^3.3.2",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.2",
+    "gulp-concat-css": "^3.0.0",
+    "gulp-less": "^3.4.0",
     "gulp-plumber": "^1.1.0"
   },
   "keywords": [

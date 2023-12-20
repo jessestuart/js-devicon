@@ -4,11 +4,11 @@
   "version": "2.7.3",
   "author": "jessestuart",
   "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-clean-css": "^3.9.2",
+    "gulp": "^4.0.0",
+    "gulp-clean-css": "^3.9.1",
     "gulp-concat-css": "^3.0.0",
     "gulp-less": "^3.4.0",
-    "gulp-plumber": "^1.1.0"
+    "gulp-plumber": "^1.2.0"
   },
   "keywords": [
     "font",
